@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-hide-top-side-bar",
+  "version": "0.0.1",
+  "private": false,
+  "insomnia": {
+    "name": "hide-top-side-bar",
+    "description": ""
+  },
+  "main": "main.js"
+}
